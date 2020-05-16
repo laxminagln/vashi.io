@@ -1,3 +1,3 @@
 # vashi.github.io
  Personal website
-https://laxminagln.github.io/vashi.github.io/
+https://varshashiburaj.github.io/
