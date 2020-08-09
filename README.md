@@ -1,4 +1,4 @@
 # vashi.github.io
- Personal website
+ Someone's website
 
 varshashiburaj.github.io
